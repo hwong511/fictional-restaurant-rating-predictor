@@ -1,0 +1,1001 @@
+Location,Cuisine,Number_of_Reviews,Price_Range,Opening_Year,Rating
+Miami,Indian,405,Expensive,2018,4.516825650941363
+Boston,Italian,69,Cheap,2010,4.078732516362024
+Boston,Italian,602,Moderate,2002,4.332592745829746
+Miami,Chinese,374,Very Expensive,2007,4.545571098099792
+New York,Italian,253,Expensive,2021,4.254858233624491
+San Francisco,Chinese,272,Expensive,2017,4.333673470945323
+Miami,Italian,402,Expensive,2016,4.175171189440849
+New York,Japanese,889,Very Expensive,2020,4.2001410339384
+Boston,Indian,387,Cheap,1988,4.309750002504944
+Miami,Italian,333,Cheap,1989,4.151403501417421
+New York,Indian,251,Expensive,1986,4.281380066850751
+Boston,Italian,676,Very Expensive,1989,4.132574545682677
+Boston,Mexican,105,Expensive,2010,4.464794785327226
+Boston,Mexican,365,Expensive,2017,4.280628062701387
+San Francisco,Italian,541,Moderate,2014,4.222615828473052
+Boston,Mexican,769,Cheap,1984,4.033069579979712
+Chicago,Italian,470,Very Expensive,2001,4.285709792664661
+San Francisco,Mexican,763,Expensive,2012,4.167982110629762
+Miami,Italian,264,Moderate,2007,4.415703069944031
+San Francisco,Japanese,245,Very Expensive,1998,4.389671315558455
+Miami,Japanese,98,Moderate,1993,4.477573427019564
+San Francisco,Japanese,864,Cheap,2022,4.127080482256941
+New York,Chinese,799,Cheap,1991,4.292883822744805
+Boston,Italian,366,Expensive,2010,4.508818092190406
+Miami,Mexican,46,Cheap,1992,4.370392729048407
+Boston,Chinese,833,Very Expensive,2021,4.063361461522984
+San Francisco,Chinese,819,Expensive,2014,4.1804425436664685
+New York,Italian,303,Expensive,2010,4.661221439638471
+Boston,Italian,153,Expensive,1993,4.686946890133045
+New York,Italian,248,Moderate,2020,4.37993305322283
+San Francisco,Italian,647,Very Expensive,2000,4.466944907242877
+Chicago,Mexican,344,Expensive,2009,4.639731705947017
+Miami,Indian,741,Very Expensive,1996,4.6581965010078035
+Miami,Mexican,409,Moderate,1997,4.48618694107555
+New York,Chinese,857,Cheap,1989,4.275830833912803
+Chicago,Indian,436,Very Expensive,1984,4.277539440541098
+Miami,Japanese,621,Moderate,1993,4.080245754079014
+Boston,Indian,356,Expensive,1985,4.465099345599081
+San Francisco,Chinese,631,Very Expensive,2001,4.545185157851659
+Boston,Mexican,358,Expensive,2015,4.4276001115530095
+New York,Indian,825,Cheap,2009,4.48179414659236
+Chicago,Chinese,152,Very Expensive,2011,4.391314127135578
+Miami,Indian,685,Expensive,1992,4.35496191217387
+Chicago,Mexican,20,Moderate,1984,3.9542772445965717
+Miami,Mexican,10,Cheap,1984,3.229956796560552
+Miami,Italian,302,Cheap,1992,4.265518737380893
+Boston,Chinese,208,Expensive,1993,4.427190783968646
+Miami,Chinese,600,Moderate,2021,4.676683776955716
+Miami,Japanese,455,Expensive,1994,3.947112356943928
+New York,Italian,483,Cheap,2011,4.563066874643722
+Boston,Chinese,173,Expensive,2010,4.026679488845883
+Boston,Italian,910,Expensive,2017,4.397947107051457
+Chicago,Chinese,851,Very Expensive,2023,4.0735413101363545
+New York,Chinese,196,Moderate,1992,4.548941353816773
+Boston,Japanese,293,Expensive,2014,4.51523239868048
+Chicago,Japanese,437,Very Expensive,1985,4.275904575273101
+Miami,Japanese,776,Expensive,1997,4.52723868399998
+San Francisco,Indian,82,Moderate,2007,4.139142650524618
+Miami,Japanese,488,Expensive,1992,4.429382028831811
+New York,Italian,278,Expensive,2001,4.350225847897863
+San Francisco,Japanese,779,Very Expensive,1997,4.548910173203159
+San Francisco,Mexican,747,Expensive,1987,4.016491568632015
+New York,Indian,426,Very Expensive,1987,4.498444482031868
+Boston,Italian,642,Very Expensive,2018,4.622402273350352
+Boston,Mexican,422,Expensive,2019,4.182621127651606
+Chicago,Italian,484,Moderate,1995,4.361714762393753
+Chicago,Chinese,902,Moderate,1994,3.964970312028867
+San Francisco,Mexican,654,Very Expensive,2000,4.204995433665699
+San Francisco,Japanese,515,Expensive,1991,4.615963100020612
+New York,Indian,305,Cheap,2006,4.099628619237464
+Boston,Italian,294,Expensive,2006,4.4368705117547655
+Miami,Italian,123,Moderate,2008,4.351547943256472
+New York,Japanese,103,Expensive,2005,4.499658997319386
+New York,Italian,98,Very Expensive,1994,4.390782018928102
+Chicago,Chinese,641,Very Expensive,2009,3.781655781460347
+San Francisco,Japanese,775,Expensive,1985,4.083348449354274
+Boston,Japanese,55,Moderate,1990,4.5269900927623645
+Chicago,Indian,674,Expensive,1987,4.621469267081069
+New York,Italian,726,Very Expensive,2002,4.092046702106641
+Boston,Japanese,759,Cheap,2018,4.666144897317764
+Chicago,Indian,678,Moderate,1990,4.642734860884579
+Boston,Italian,783,Very Expensive,1994,4.382206534319033
+New York,Italian,118,Cheap,1997,4.177411507553058
+San Francisco,Indian,661,Cheap,2017,4.15442047836595
+Chicago,Italian,768,Cheap,2013,4.547830171119825
+San Francisco,Japanese,134,Cheap,2012,4.1063695554470945
+San Francisco,Mexican,992,Cheap,1991,4.249811786557083
+Chicago,Japanese,466,Cheap,2023,4.675022411504787
+Chicago,Italian,470,Cheap,2000,3.1600386255768784
+New York,Chinese,823,Cheap,2008,4.532752640205685
+Chicago,Indian,372,Moderate,2003,4.484022398469332
+New York,Chinese,969,Very Expensive,1992,4.582914255119702
+Miami,Japanese,867,Moderate,2012,4.613036724426559
+New York,Indian,641,Cheap,1994,4.324619861243264
+Chicago,Chinese,191,Expensive,1999,4.212316574876769
+Chicago,Chinese,767,Cheap,1998,3.831498563822944
+Chicago,Chinese,750,Expensive,2015,4.447091284563192
+New York,Indian,371,Cheap,1984,3.7406576439289756
+San Francisco,Mexican,42,Very Expensive,1999,4.518420619454277
+Chicago,Japanese,970,Cheap,1984,4.124761035804821
+Boston,Indian,855,Moderate,1996,4.425531201940568
+Miami,Italian,834,Moderate,2001,4.292492140767188
+Boston,Mexican,346,Very Expensive,1989,4.180146168461062
+Miami,Indian,41,Expensive,1991,4.695798802376781
+San Francisco,Indian,797,Expensive,2001,4.566623885553987
+Miami,Chinese,405,Moderate,2009,4.317566893684577
+Boston,Indian,400,Moderate,1989,4.458054356598825
+Boston,Mexican,926,Expensive,2011,4.130740957889731
+Boston,Indian,862,Very Expensive,1994,4.185972117188436
+Miami,Italian,12,Cheap,2018,4.002504303668433
+Miami,Indian,328,Very Expensive,1989,4.014241923019272
+Miami,Chinese,724,Moderate,2012,4.627430697063489
+Boston,Mexican,893,Expensive,1989,4.008959733252667
+Chicago,Mexican,637,Expensive,2015,4.576137473885625
+San Francisco,Mexican,689,Cheap,1999,4.191917138084578
+New York,Italian,504,Very Expensive,1985,4.647280987884938
+New York,Italian,14,Expensive,2002,4.576308464312793
+Chicago,Indian,753,Expensive,1992,3.679330077082848
+New York,Japanese,444,Moderate,2002,4.277685226109153
+Boston,Indian,501,Very Expensive,1992,4.217599188770454
+New York,Chinese,251,Expensive,2015,4.237478028126135
+Chicago,Indian,249,Moderate,2009,4.286799363475148
+San Francisco,Indian,671,Expensive,1994,4.102135535128857
+New York,Italian,362,Expensive,2013,4.053121064130692
+New York,Chinese,974,Very Expensive,1994,4.314532599573322
+San Francisco,Indian,58,Moderate,2011,4.699152906559434
+Boston,Italian,50,Very Expensive,2022,4.577738664786705
+Boston,Indian,990,Cheap,2017,4.481628057442079
+Chicago,Mexican,672,Expensive,2018,4.1894098494909695
+San Francisco,Japanese,538,Expensive,2011,4.672804446777316
+Miami,Indian,642,Expensive,2008,4.6555815987752664
+Miami,Japanese,997,Very Expensive,2006,4.030912166200297
+Chicago,Italian,355,Moderate,1995,4.0143109099042205
+Chicago,Indian,830,Cheap,1984,4.100548479121883
+Boston,Indian,365,Expensive,1998,4.603473425407162
+San Francisco,Chinese,842,Very Expensive,2010,4.067321851887347
+San Francisco,Japanese,687,Very Expensive,2011,4.654287993256734
+Boston,Indian,864,Very Expensive,2002,3.9523108961714
+New York,Italian,987,Very Expensive,2010,4.040676770768431
+Boston,Mexican,106,Moderate,2010,4.508500903295799
+Boston,Chinese,144,Cheap,2011,4.239617795575486
+San Francisco,Indian,443,Moderate,1989,4.547815345615337
+Boston,Italian,114,Moderate,2009,4.43579230193006
+Chicago,Mexican,980,Very Expensive,2009,4.063220269882908
+Miami,Chinese,685,Cheap,2010,4.516203410616839
+New York,Italian,392,Very Expensive,2012,4.038398880543173
+New York,Indian,572,Expensive,1985,4.011816363070728
+New York,Japanese,10,Expensive,1990,4.593531019467843
+San Francisco,Chinese,167,Moderate,2009,4.0859137783965345
+Boston,Mexican,143,Very Expensive,1997,4.457891754125157
+Miami,Italian,723,Moderate,1986,3.791506183463817
+Boston,Indian,439,Cheap,1991,4.642004586577333
+New York,Italian,774,Very Expensive,1999,4.145709652513421
+Boston,Indian,835,Expensive,1988,3.299269928472106
+San Francisco,Chinese,968,Expensive,2014,4.263377424534479
+New York,Chinese,290,Expensive,2022,4.596012633931214
+Boston,Japanese,93,Moderate,1990,4.238526595797387
+San Francisco,Mexican,331,Very Expensive,1997,4.268829081132055
+San Francisco,Japanese,608,Very Expensive,2008,4.3901419275713796
+Boston,Indian,263,Very Expensive,2022,4.620560308633508
+Boston,Mexican,545,Expensive,2013,4.290513819987775
+Miami,Japanese,906,Expensive,2015,4.070864724377181
+New York,Japanese,247,Cheap,2020,4.281501704744057
+Boston,Chinese,85,Expensive,2005,4.08101930863838
+New York,Chinese,856,Cheap,2020,4.500330195796893
+New York,Italian,302,Expensive,1988,4.148073926379882
+San Francisco,Chinese,694,Very Expensive,2010,4.306314819094335
+San Francisco,Japanese,69,Very Expensive,2001,4.1207478559908735
+San Francisco,Indian,274,Cheap,2001,4.389559483074211
+Miami,Indian,337,Expensive,2021,4.284961601599389
+San Francisco,Indian,528,Expensive,2017,4.528052621390699
+New York,Japanese,535,Expensive,1984,4.558417030407988
+Chicago,Mexican,570,Expensive,1989,4.621929177663769
+Miami,Mexican,706,Cheap,2020,4.175828451938378
+San Francisco,Chinese,218,Cheap,2017,4.63929457249714
+San Francisco,Japanese,441,Cheap,1998,4.523134740104755
+Miami,Indian,414,Very Expensive,2008,4.457164831213599
+Chicago,Italian,289,Very Expensive,2018,4.539758205244745
+Chicago,Italian,319,Expensive,1985,4.499586949963874
+Chicago,Chinese,95,Very Expensive,1989,4.305024627841056
+Boston,Italian,169,Moderate,2010,4.439910183489761
+New York,Italian,971,Expensive,1998,4.027129228718363
+Chicago,Italian,682,Expensive,2009,4.384901452688582
+Chicago,Italian,134,Moderate,2005,4.257721366050167
+San Francisco,Indian,844,Moderate,2001,4.364658393124261
+San Francisco,Indian,797,Cheap,1985,4.654234356310883
+Miami,Italian,890,Expensive,2015,4.389796047061646
+Boston,Japanese,647,Cheap,2021,4.4990814615996815
+New York,Japanese,795,Expensive,1996,4.334700322784027
+Chicago,Japanese,85,Expensive,2017,4.187263266071791
+Chicago,Japanese,710,Moderate,2008,4.564131651638699
+Miami,Mexican,863,Very Expensive,1988,4.549004110004308
+Boston,Indian,190,Cheap,2008,4.10324140579529
+Boston,Indian,790,Moderate,1990,4.494350041536954
+San Francisco,Italian,329,Very Expensive,1994,4.115126578671691
+Boston,Japanese,732,Very Expensive,2012,4.2248511222258465
+New York,Italian,118,Expensive,2008,4.106789095781594
+Miami,Italian,548,Cheap,2004,4.249187097004473
+Chicago,Chinese,49,Very Expensive,2018,4.1519084927368555
+Boston,Italian,791,Expensive,2017,4.685960896200108
+San Francisco,Japanese,96,Moderate,1992,4.282620598335224
+San Francisco,Mexican,531,Moderate,2023,4.0635337058500545
+Chicago,Japanese,649,Moderate,2012,4.282327260082792
+Miami,Italian,931,Very Expensive,2018,4.364567761089412
+Miami,Indian,402,Moderate,2014,4.601350978317463
+Chicago,Italian,919,Expensive,1996,4.01772204678901
+San Francisco,Italian,302,Very Expensive,1999,4.206793615970807
+Chicago,Chinese,821,Cheap,2001,4.684208146212553
+Chicago,Chinese,589,Moderate,1984,3.740976074160935
+Boston,Mexican,223,Expensive,2023,4.306508801389713
+Chicago,Chinese,958,Cheap,1996,4.061720095840289
+San Francisco,Mexican,360,Moderate,2001,4.121892096890984
+New York,Italian,177,Expensive,2013,4.406792308863482
+Miami,Mexican,464,Very Expensive,2009,4.631045166226688
+Boston,Chinese,648,Expensive,2012,4.6345881981455195
+New York,Japanese,290,Moderate,2003,4.151261264084538
+Miami,Japanese,264,Cheap,1992,4.125705942185812
+Chicago,Mexican,486,Cheap,2012,4.071627795321518
+San Francisco,Japanese,311,Expensive,2018,4.258831562967229
+Boston,Chinese,773,Moderate,2012,4.101251716357615
+Boston,Chinese,295,Expensive,1991,3.7395785122607634
+San Francisco,Mexican,461,Cheap,2002,4.498474799000208
+Boston,Indian,892,Expensive,2023,4.037552652914197
+Chicago,Mexican,857,Cheap,2021,3.9837342485291436
+San Francisco,Chinese,778,Cheap,2020,4.2633019726130215
+Miami,Chinese,539,Expensive,2008,4.211527429565217
+Chicago,Italian,138,Moderate,2002,4.268173648163312
+Miami,Japanese,680,Very Expensive,1992,4.549953387074065
+Miami,Japanese,29,Very Expensive,1986,4.556171802034589
+Chicago,Chinese,254,Very Expensive,2006,4.2503901823462815
+Boston,Indian,847,Moderate,2009,4.6388283939430535
+San Francisco,Japanese,714,Very Expensive,2006,4.4362115848570305
+Boston,Indian,486,Very Expensive,2005,4.502103492213999
+New York,Italian,783,Very Expensive,2009,4.673824216976689
+New York,Japanese,453,Moderate,1984,4.181150317727402
+San Francisco,Chinese,142,Moderate,2011,4.120918748058406
+Boston,Indian,789,Expensive,2001,4.274297223427105
+San Francisco,Italian,62,Expensive,1984,4.692844057229646
+Chicago,Chinese,789,Moderate,2010,4.383170807234699
+Boston,Italian,785,Cheap,2018,4.38451257991829
+San Francisco,Indian,64,Very Expensive,1985,4.0804480703992345
+Chicago,Indian,230,Moderate,1998,4.6748236913893395
+Boston,Italian,90,Expensive,1990,2.9428321989814856
+San Francisco,Indian,951,Cheap,1988,4.141761833731672
+Miami,Indian,974,Moderate,1991,4.5656929409872475
+Chicago,Italian,69,Very Expensive,2012,4.504949034524091
+Miami,Chinese,696,Cheap,1997,4.089754289608373
+New York,Italian,717,Very Expensive,2002,4.652376551954492
+Chicago,Chinese,677,Moderate,2022,4.005264208834315
+Chicago,Chinese,128,Moderate,2013,4.6043888665222035
+Boston,Japanese,75,Expensive,2010,4.008891777880892
+San Francisco,Japanese,423,Moderate,1987,3.7942955490319497
+San Francisco,Indian,368,Cheap,1997,3.9147495730504507
+Miami,Indian,136,Expensive,2008,4.021628131628859
+Chicago,Mexican,372,Expensive,2020,4.622794723537489
+Boston,Chinese,938,Cheap,2012,4.236774659781636
+Chicago,Indian,308,Expensive,1998,4.298106395462336
+New York,Japanese,583,Very Expensive,1994,4.385794325291973
+New York,Mexican,107,Very Expensive,1999,4.2843642246029345
+New York,Indian,376,Expensive,2006,4.664132262333732
+Miami,Japanese,398,Expensive,2019,4.194893894281339
+New York,Mexican,673,Moderate,1984,4.149889485103392
+Miami,Chinese,589,Moderate,2015,3.6034458518430217
+Miami,Chinese,913,Expensive,2005,4.384606852944236
+Miami,Chinese,444,Expensive,1987,3.910097112925607
+New York,Mexican,155,Cheap,2001,4.098024358123918
+Chicago,Chinese,949,Very Expensive,2014,4.353905827706773
+New York,Japanese,132,Very Expensive,2006,4.22987253480452
+San Francisco,Indian,90,Expensive,2008,4.499894199212465
+San Francisco,Japanese,601,Expensive,2007,4.186668263634459
+New York,Japanese,378,Cheap,2017,4.222753244758647
+Chicago,Mexican,654,Moderate,2004,4.596871844953408
+Miami,Indian,264,Cheap,2000,4.5560820918852025
+San Francisco,Mexican,656,Expensive,2014,4.688010412069509
+New York,Indian,738,Moderate,2023,4.515951298996244
+San Francisco,Indian,33,Very Expensive,2017,4.103045415715246
+Chicago,Japanese,752,Moderate,1993,3.527076369132736
+Chicago,Indian,176,Expensive,1993,4.2201355569128784
+New York,Japanese,138,Moderate,1984,4.5739203311745165
+San Francisco,Indian,92,Expensive,2006,4.667739233226014
+Chicago,Indian,609,Expensive,1986,4.065190774279677
+Miami,Mexican,395,Expensive,2014,4.1679125554453496
+New York,Chinese,984,Moderate,1988,4.107430466919223
+Chicago,Japanese,690,Expensive,2004,4.198222415067449
+San Francisco,Italian,256,Expensive,2015,4.508684405088018
+New York,Italian,979,Moderate,1994,4.333766607629
+Boston,Japanese,59,Very Expensive,2018,4.37356459900343
+New York,Japanese,989,Expensive,2003,4.525497964544929
+Miami,Indian,252,Moderate,1985,4.691668706921796
+Miami,Chinese,709,Expensive,2021,4.690313445969212
+Boston,Indian,399,Very Expensive,1997,4.629543800575283
+New York,Chinese,166,Very Expensive,2012,4.4465060250736315
+Boston,Indian,824,Very Expensive,1994,4.072707189019915
+New York,Italian,378,Expensive,2016,4.510722050174236
+Chicago,Italian,395,Moderate,2021,4.301078786659011
+Chicago,Chinese,115,Expensive,2001,4.011394224830637
+Miami,Mexican,387,Expensive,2001,4.633460230416205
+Miami,Japanese,747,Very Expensive,2003,4.502494999169231
+Boston,Chinese,831,Moderate,2001,3.9100376960070387
+San Francisco,Chinese,641,Moderate,1986,4.487421526127586
+Miami,Japanese,835,Very Expensive,1995,4.149920175955793
+Boston,Mexican,601,Expensive,2006,4.361057892966002
+Boston,Japanese,669,Expensive,2018,4.247131990217836
+New York,Chinese,396,Cheap,2005,4.33193974441026
+Miami,Chinese,174,Cheap,2018,3.6179479131880186
+New York,Japanese,212,Cheap,2002,4.275548870811731
+Boston,Indian,264,Moderate,2009,4.179815972038929
+San Francisco,Chinese,956,Moderate,2008,4.088005823717423
+Miami,Indian,873,Cheap,2011,4.326141680181412
+San Francisco,Chinese,302,Moderate,1985,4.098988241000172
+Boston,Mexican,534,Very Expensive,1996,4.327249977152175
+San Francisco,Italian,624,Expensive,1990,4.500746912434827
+Miami,Indian,839,Very Expensive,2006,4.474503117597625
+San Francisco,Indian,287,Expensive,2015,4.227856604094595
+Chicago,Chinese,647,Moderate,2019,4.230543811097428
+New York,Mexican,711,Very Expensive,1998,4.586733623107114
+Chicago,Mexican,338,Very Expensive,1997,4.194063157096445
+Miami,Indian,90,Moderate,2009,4.464951509668471
+New York,Chinese,268,Cheap,2018,4.696480384933605
+San Francisco,Indian,202,Expensive,1990,4.504093797783826
+New York,Mexican,184,Cheap,2001,4.122669037151248
+New York,Italian,13,Cheap,2014,3.865247676680142
+Miami,Chinese,30,Very Expensive,1986,3.02488189259784
+Miami,Indian,537,Expensive,2018,4.660098785112487
+Boston,Chinese,605,Expensive,1997,4.22981895939975
+Chicago,Mexican,946,Moderate,2014,4.489684972163951
+Chicago,Italian,849,Cheap,1990,4.392881362684001
+Boston,Mexican,217,Moderate,1988,4.148444314314117
+New York,Mexican,832,Very Expensive,1985,4.658839401818313
+Boston,Japanese,853,Very Expensive,1998,4.463984380422983
+New York,Mexican,711,Very Expensive,2021,4.680311249060673
+Boston,Japanese,163,Very Expensive,2002,4.642743161422707
+Chicago,Italian,245,Cheap,2012,4.530012413631409
+San Francisco,Italian,20,Very Expensive,2016,4.19897238950778
+Chicago,Chinese,192,Very Expensive,2018,4.45247240549235
+Boston,Indian,281,Moderate,1991,4.0830087641867685
+San Francisco,Mexican,480,Expensive,1986,4.523900787183303
+San Francisco,Italian,215,Very Expensive,1991,4.616291410461548
+Chicago,Indian,292,Expensive,1984,4.4055523310898455
+San Francisco,Indian,997,Moderate,1987,4.271402273667094
+Miami,Japanese,938,Expensive,1989,4.573587674150246
+San Francisco,Mexican,446,Cheap,1986,4.385550006190298
+San Francisco,Italian,57,Cheap,2011,4.541186138372617
+New York,Chinese,206,Moderate,2001,4.210408751584128
+New York,Italian,245,Very Expensive,1998,4.645826566721618
+San Francisco,Indian,912,Expensive,1987,4.581829984129292
+Chicago,Indian,332,Cheap,1999,4.666071020681794
+New York,Indian,595,Cheap,2017,4.277509612340889
+San Francisco,Japanese,939,Moderate,2010,4.64161567163547
+San Francisco,Chinese,368,Moderate,2020,4.466809177141032
+Miami,Japanese,584,Cheap,1998,4.494812778475977
+Miami,Italian,193,Moderate,1998,4.6994452037430605
+Chicago,Italian,639,Expensive,2009,4.345097154536835
+Chicago,Japanese,967,Moderate,2009,4.520284049054238
+Boston,Mexican,438,Moderate,2002,4.325763354909262
+Boston,Chinese,937,Cheap,1987,3.9658581568441957
+Boston,Japanese,874,Very Expensive,2004,4.360987000489774
+Chicago,Mexican,630,Expensive,2011,4.123399779148757
+Boston,Mexican,128,Moderate,2012,4.257952691993492
+Chicago,Indian,358,Expensive,1994,4.020125595765851
+San Francisco,Chinese,709,Cheap,1985,4.17278226079466
+New York,Mexican,454,Expensive,1994,4.059789777523701
+New York,Chinese,807,Moderate,1998,4.595478167970673
+Miami,Italian,159,Moderate,2006,4.458504199071319
+New York,Italian,444,Moderate,2016,4.588572843465832
+Miami,Italian,812,Cheap,1999,4.66952371586411
+San Francisco,Italian,621,Moderate,2016,4.22860559282932
+New York,Mexican,548,Very Expensive,1994,4.639745889082783
+Boston,Chinese,189,Moderate,2016,4.45840293014765
+New York,Mexican,873,Cheap,2019,4.4309926992876845
+Chicago,Mexican,377,Expensive,1987,3.9332779402723066
+Miami,Italian,877,Very Expensive,2009,4.442353538442491
+San Francisco,Japanese,43,Moderate,1987,4.438820714444406
+Chicago,Mexican,798,Expensive,2001,4.191157874502829
+Miami,Chinese,929,Cheap,2005,4.352030888930649
+Miami,Indian,483,Moderate,1990,4.000274479856727
+Chicago,Italian,556,Expensive,2006,4.120935455413069
+New York,Japanese,861,Very Expensive,2011,4.11794811904189
+Boston,Indian,482,Cheap,1990,4.698524383863322
+Boston,Indian,388,Cheap,2011,4.0955061372922446
+Chicago,Mexican,16,Moderate,2008,4.643357912930683
+San Francisco,Mexican,150,Expensive,1984,4.358688758092605
+San Francisco,Japanese,61,Expensive,1992,4.0000335696553355
+Boston,Indian,306,Very Expensive,2000,4.492529718052957
+New York,Italian,517,Moderate,2004,4.408127478777914
+San Francisco,Italian,955,Expensive,2011,4.1003511444082665
+Miami,Indian,592,Moderate,2022,4.663639285549666
+Chicago,Italian,519,Expensive,1989,4.429722372393401
+Miami,Chinese,91,Moderate,2006,4.403135530990813
+Chicago,Mexican,605,Moderate,2021,4.085639249764764
+New York,Mexican,239,Moderate,1990,4.426544580063468
+Miami,Japanese,77,Very Expensive,2006,3.632093542441363
+Boston,Chinese,643,Moderate,2022,3.524341393657476
+San Francisco,Indian,504,Expensive,1984,4.408662515589176
+New York,Indian,808,Very Expensive,2007,4.144511243290728
+Chicago,Italian,287,Very Expensive,2009,4.619795853617426
+New York,Indian,225,Very Expensive,1985,4.318012883384702
+Chicago,Japanese,359,Very Expensive,1990,4.517375695611645
+Chicago,Chinese,44,Very Expensive,1987,4.528700453027682
+San Francisco,Italian,325,Very Expensive,1998,4.27365134234085
+San Francisco,Indian,819,Moderate,2003,4.456050346548496
+New York,Japanese,97,Very Expensive,2000,4.312871690565805
+Chicago,Italian,495,Expensive,1985,4.371269800905895
+Boston,Indian,325,Very Expensive,2015,4.153979212309284
+Boston,Indian,122,Moderate,2002,4.074181467123594
+Chicago,Indian,616,Very Expensive,1997,4.099254574572683
+Chicago,Italian,451,Expensive,2006,4.384059251962138
+San Francisco,Italian,113,Cheap,2001,4.1937175386812875
+Chicago,Indian,833,Moderate,2011,4.2310182939672965
+Miami,Indian,699,Cheap,2018,4.640628241786635
+New York,Indian,822,Moderate,2023,4.549361190772341
+Boston,Chinese,89,Very Expensive,1994,4.36163978031321
+New York,Japanese,946,Expensive,1990,4.278241992789198
+Chicago,Mexican,615,Very Expensive,1986,3.9395081136296
+Miami,Mexican,733,Expensive,1988,4.006003989816477
+Boston,Japanese,314,Very Expensive,2023,4.39501965269297
+Boston,Japanese,154,Cheap,2023,4.440852200136927
+Miami,Chinese,78,Cheap,2017,4.684880808132905
+New York,Indian,539,Expensive,2006,4.371201435445175
+New York,Indian,240,Very Expensive,2002,4.564291543615604
+New York,Indian,128,Moderate,2021,4.587098712256647
+New York,Japanese,761,Expensive,2017,4.168789012691368
+Boston,Italian,742,Moderate,1984,4.018965493715787
+San Francisco,Japanese,237,Moderate,2004,4.120937580555378
+Miami,Japanese,232,Expensive,1992,4.520918186463308
+Miami,Italian,554,Very Expensive,2010,4.416359915247999
+San Francisco,Mexican,190,Cheap,2022,4.081584078931991
+New York,Japanese,639,Cheap,1997,4.03618249695566
+New York,Chinese,730,Very Expensive,1990,4.063100912335411
+Chicago,Chinese,951,Expensive,2022,4.63381208693778
+San Francisco,Japanese,879,Moderate,1984,4.576304377963632
+Chicago,Mexican,367,Expensive,2016,4.626955361555465
+New York,Indian,434,Moderate,2019,4.465575082053873
+Chicago,Italian,138,Moderate,1989,4.538150523561836
+Boston,Mexican,11,Moderate,1985,4.450876321455423
+Chicago,Italian,662,Expensive,2016,4.155112559707574
+New York,Mexican,994,Very Expensive,2016,4.372620010116601
+Miami,Mexican,430,Very Expensive,2003,4.155499305880831
+San Francisco,Chinese,18,Moderate,2005,4.659551236644621
+Miami,Mexican,39,Expensive,2011,4.637255391118107
+Chicago,Italian,159,Moderate,2008,4.587422486807799
+Miami,Indian,218,Cheap,2000,3.353315499157847
+Chicago,Japanese,529,Moderate,1994,4.163039938540032
+Boston,Chinese,543,Cheap,1998,4.2807360279023285
+Chicago,Chinese,461,Cheap,1998,4.462754229809215
+Boston,Indian,880,Expensive,2010,4.435813148435253
+Boston,Indian,662,Moderate,2016,4.157752344890464
+Boston,Indian,182,Moderate,2019,4.536101902668748
+Chicago,Chinese,153,Expensive,2020,4.331942418315913
+Miami,Italian,995,Moderate,1990,4.369603965795291
+New York,Chinese,455,Cheap,2003,3.7475357989916187
+New York,Chinese,723,Cheap,2017,4.051858554183827
+San Francisco,Japanese,917,Very Expensive,2014,4.525543202691155
+San Francisco,Indian,224,Moderate,1998,4.614461703769573
+San Francisco,Indian,12,Very Expensive,2022,4.458558042611175
+Miami,Chinese,362,Cheap,2013,4.638942212341002
+Miami,Italian,105,Very Expensive,1993,4.602944235735681
+Chicago,Italian,738,Expensive,1988,4.580515473288611
+San Francisco,Japanese,275,Expensive,1995,4.499507343970584
+San Francisco,Indian,711,Cheap,1985,4.308104612328562
+Miami,Chinese,574,Expensive,1984,4.472858500063945
+New York,Mexican,290,Expensive,1991,4.454172570332917
+New York,Italian,880,Moderate,2014,4.556774022925001
+San Francisco,Japanese,23,Very Expensive,2006,4.59867013895526
+Miami,Chinese,682,Very Expensive,1990,4.64039717124302
+New York,Japanese,645,Moderate,1993,4.676280070347931
+New York,Italian,526,Moderate,1987,4.6695476551526705
+Miami,Italian,257,Expensive,1984,4.281602834076925
+Chicago,Japanese,733,Expensive,2011,4.0090832666808645
+Boston,Indian,218,Moderate,1988,4.503087138567731
+Chicago,Indian,940,Cheap,2013,3.6200324460585307
+Chicago,Japanese,257,Moderate,1986,4.162227465348297
+Boston,Mexican,299,Moderate,2002,4.100249261410964
+San Francisco,Chinese,962,Moderate,1999,3.946634290496064
+Chicago,Mexican,289,Cheap,2002,3.2111119299687183
+New York,Japanese,652,Very Expensive,1988,4.240781399061131
+New York,Japanese,530,Very Expensive,2023,4.689946348463182
+New York,Japanese,956,Cheap,1988,4.116522858879742
+San Francisco,Chinese,494,Expensive,2020,4.507286221354309
+New York,Japanese,845,Cheap,2004,4.627844731221494
+San Francisco,Chinese,922,Expensive,2000,4.24760743187383
+New York,Chinese,510,Moderate,1998,4.092218168037557
+Chicago,Mexican,621,Cheap,1986,4.41992919430268
+Boston,Mexican,382,Moderate,2006,4.332181131988568
+San Francisco,Italian,822,Expensive,2021,4.309084246010529
+Chicago,Japanese,413,Expensive,2016,4.6074914030907435
+Boston,Mexican,936,Very Expensive,2011,4.391073377154784
+Miami,Japanese,67,Very Expensive,1995,4.348895871314069
+Boston,Japanese,315,Expensive,1987,3.543077021483829
+San Francisco,Indian,822,Very Expensive,1990,4.562045828275479
+Chicago,Indian,48,Expensive,1992,4.464806084024011
+San Francisco,Chinese,184,Expensive,2015,4.454746249484851
+San Francisco,Indian,10,Expensive,2017,3.98073871582885
+San Francisco,Italian,493,Expensive,2023,4.532763043999991
+New York,Mexican,948,Cheap,2016,4.051484200520271
+San Francisco,Mexican,815,Very Expensive,2009,4.463206931765721
+New York,Italian,758,Cheap,2004,4.055875782353017
+Miami,Chinese,801,Cheap,1987,3.4808758990270796
+San Francisco,Japanese,399,Expensive,2006,4.438600901740028
+New York,Japanese,136,Expensive,2007,4.642734287684163
+San Francisco,Mexican,410,Expensive,2022,4.353168370303133
+San Francisco,Italian,783,Very Expensive,1992,4.0228685257825445
+Chicago,Japanese,695,Very Expensive,2001,3.9688439115384435
+Boston,Mexican,953,Very Expensive,1985,4.593926960034555
+Boston,Italian,908,Very Expensive,1987,4.53702571327046
+Boston,Mexican,210,Moderate,2019,4.230467361969408
+Boston,Italian,736,Moderate,2020,4.192454297862249
+Boston,Indian,677,Very Expensive,2012,4.694741241686941
+Boston,Italian,143,Expensive,1998,4.6637768133221496
+Boston,Mexican,652,Moderate,2019,4.079412233020555
+New York,Mexican,861,Expensive,1996,4.185963319015036
+New York,Japanese,569,Cheap,2014,4.312344442168293
+Boston,Italian,918,Very Expensive,1989,4.594947964903329
+New York,Indian,489,Moderate,2011,4.125184603611732
+Miami,Chinese,17,Very Expensive,1998,3.6253991582724376
+Miami,Italian,357,Cheap,2003,4.4819370517447386
+Chicago,Mexican,588,Very Expensive,1985,4.199992921882546
+San Francisco,Japanese,569,Cheap,2011,4.478971631726925
+Boston,Japanese,204,Very Expensive,2010,4.121184420729827
+Chicago,Japanese,596,Moderate,2011,4.342582577351516
+New York,Italian,786,Expensive,2010,4.211699433804009
+Chicago,Chinese,729,Moderate,1989,4.015196992997041
+New York,Chinese,833,Moderate,1986,4.197300016748317
+Boston,Indian,800,Very Expensive,1994,3.8441663231717165
+Chicago,Chinese,468,Expensive,2022,4.278918748998767
+Boston,Japanese,805,Expensive,2001,4.605851247624638
+Miami,Italian,493,Moderate,1993,4.615956056637929
+Chicago,Italian,799,Expensive,2008,3.631734048515775
+San Francisco,Italian,76,Very Expensive,2004,4.432027701513835
+New York,Chinese,885,Expensive,2013,4.64176519958088
+New York,Chinese,901,Moderate,1996,4.42861845037127
+New York,Italian,122,Moderate,2006,4.542215181859298
+San Francisco,Italian,553,Moderate,2019,4.170284008168914
+New York,Italian,595,Moderate,2006,4.423080270697165
+Boston,Chinese,908,Very Expensive,2014,4.006613565052606
+Boston,Chinese,472,Expensive,2016,4.100180364502933
+Miami,Japanese,412,Moderate,2006,4.39268193038956
+San Francisco,Japanese,512,Very Expensive,2005,4.3985614728576765
+Chicago,Japanese,95,Cheap,1999,4.048801583980962
+Miami,Japanese,508,Very Expensive,1994,4.23195060427122
+Chicago,Indian,664,Very Expensive,2013,4.422656425012886
+Chicago,Mexican,527,Moderate,2022,4.679584151472146
+San Francisco,Chinese,225,Expensive,1989,4.045690455516549
+Miami,Japanese,15,Very Expensive,2000,4.636341129350203
+Miami,Mexican,80,Very Expensive,2003,4.631132792773343
+Boston,Chinese,342,Moderate,2015,4.436704742692722
+Chicago,Mexican,733,Very Expensive,2019,4.253927595244438
+Miami,Indian,540,Expensive,1998,4.668949730431079
+Miami,Mexican,450,Moderate,1995,4.223604998130332
+Miami,Chinese,803,Cheap,2010,3.348405008046056
+Chicago,Mexican,727,Expensive,2020,4.3701389258514345
+Boston,Italian,243,Expensive,2018,4.459795381991179
+Boston,Chinese,567,Very Expensive,1994,4.059569036580555
+Miami,Chinese,419,Very Expensive,1985,3.7481049415496726
+New York,Indian,931,Very Expensive,2006,4.370973238694774
+Miami,Indian,704,Cheap,1999,4.266862363882089
+San Francisco,Indian,530,Very Expensive,2019,4.4043397170669305
+Boston,Japanese,543,Cheap,2022,4.4601379989378325
+San Francisco,Indian,143,Cheap,2019,4.513698558955647
+New York,Indian,974,Very Expensive,1990,4.302648583209869
+Boston,Italian,865,Moderate,2002,4.032060040226761
+Boston,Italian,756,Moderate,2017,4.055210593396073
+San Francisco,Chinese,648,Expensive,2001,4.071613296020013
+Miami,Italian,183,Moderate,2013,4.1179762672199125
+Miami,Chinese,276,Expensive,2013,4.1554667815280135
+New York,Italian,364,Very Expensive,2008,4.5399710130429
+Miami,Italian,696,Moderate,2014,4.622280366506967
+Miami,Italian,435,Very Expensive,2002,4.351712865292965
+New York,Japanese,779,Expensive,1990,4.366777706404287
+New York,Mexican,715,Expensive,2006,4.391685928134767
+Miami,Indian,120,Expensive,2001,4.451973835367677
+Miami,Italian,249,Cheap,1987,4.3960453963020525
+Boston,Indian,910,Cheap,2005,4.016105175896301
+Miami,Chinese,971,Expensive,1994,4.647560355097891
+Chicago,Italian,246,Expensive,1995,4.6576742781361045
+Miami,Chinese,395,Cheap,2012,4.653502235650911
+Miami,Italian,995,Moderate,2018,4.313989143543498
+San Francisco,Japanese,174,Very Expensive,1995,4.118076308785523
+Chicago,Italian,835,Very Expensive,2009,4.467036646053001
+New York,Chinese,225,Cheap,1992,4.595224890186029
+Boston,Japanese,347,Cheap,2001,4.290452502282141
+New York,Italian,936,Moderate,2018,4.5430167901057485
+San Francisco,Italian,631,Very Expensive,1985,4.44148351939956
+Miami,Mexican,691,Very Expensive,2017,4.216413230556521
+New York,Chinese,612,Very Expensive,2002,4.398764922660917
+Chicago,Mexican,12,Expensive,2000,4.2487513226580615
+Chicago,Chinese,741,Cheap,2001,3.873330940325545
+Chicago,Japanese,561,Moderate,2000,4.080649062437194
+Boston,Japanese,280,Expensive,2009,4.594313864592316
+Boston,Indian,923,Very Expensive,2002,4.442804264529521
+New York,Mexican,33,Very Expensive,1994,3.721593378035109
+Miami,Mexican,936,Cheap,1990,4.566939817114268
+Boston,Japanese,219,Very Expensive,2006,4.216418913810468
+Miami,Mexican,449,Cheap,2009,3.5906180669784273
+Chicago,Indian,421,Expensive,1987,4.3537516557834435
+Miami,Italian,828,Cheap,1985,4.490837658427221
+Boston,Italian,324,Expensive,2012,4.085262830717962
+Boston,Japanese,177,Expensive,2023,4.488435643036688
+Miami,Mexican,431,Very Expensive,2005,4.028233496974962
+Chicago,Italian,888,Very Expensive,2005,4.207353566641985
+Miami,Indian,120,Cheap,1991,4.554100419361266
+Miami,Chinese,555,Cheap,1991,3.5037221492774666
+San Francisco,Chinese,228,Expensive,2020,4.301611942799396
+Boston,Mexican,349,Very Expensive,2011,4.410415719583472
+Chicago,Italian,45,Very Expensive,2008,4.082847300403962
+New York,Mexican,231,Cheap,1992,4.330639764228397
+Boston,Japanese,259,Expensive,1997,4.041788747988621
+San Francisco,Italian,574,Cheap,2001,4.691557374556473
+New York,Japanese,549,Very Expensive,2018,4.221154555401119
+Miami,Mexican,462,Moderate,2016,4.527406591268742
+Chicago,Mexican,572,Cheap,1984,4.520023037007184
+New York,Japanese,360,Moderate,2009,4.538840682153822
+New York,Mexican,881,Cheap,2014,4.521322267416643
+New York,Japanese,979,Very Expensive,2019,4.1482324530927155
+Miami,Japanese,926,Very Expensive,2004,4.183274070292184
+Miami,Indian,377,Cheap,2006,4.283879650645555
+Chicago,Japanese,878,Expensive,1990,4.015608700021666
+San Francisco,Indian,149,Moderate,2017,4.072441157897523
+Boston,Chinese,376,Very Expensive,2002,4.179551450278833
+San Francisco,Mexican,33,Moderate,1997,4.157932156788424
+Chicago,Japanese,89,Very Expensive,1987,4.604382140538807
+Miami,Indian,238,Very Expensive,2012,4.299509941852674
+San Francisco,Mexican,259,Moderate,2019,4.4306316141735085
+Chicago,Italian,545,Moderate,2019,4.239102187935185
+San Francisco,Mexican,144,Moderate,2017,4.285184050960669
+Boston,Mexican,988,Expensive,2018,4.362684560843559
+San Francisco,Italian,405,Very Expensive,2017,4.148818095742676
+Chicago,Mexican,717,Cheap,1999,4.298809360866293
+Miami,Italian,643,Expensive,1987,4.221753573554247
+New York,Mexican,492,Cheap,2009,4.194524413726213
+Chicago,Chinese,73,Expensive,1987,4.167592898561784
+Chicago,Indian,968,Moderate,2014,4.138746995658393
+Chicago,Indian,567,Expensive,2002,4.655744920727257
+Boston,Indian,525,Expensive,2023,4.5040493913478485
+Chicago,Indian,748,Cheap,2022,4.450807101889882
+San Francisco,Italian,936,Expensive,1986,4.282422582163207
+Boston,Chinese,231,Moderate,1986,4.479344096031666
+New York,Italian,141,Cheap,1998,4.3207020235806715
+San Francisco,Italian,48,Cheap,1993,3.2330492633501495
+San Francisco,Italian,395,Cheap,2019,4.3074222268724895
+Chicago,Italian,781,Moderate,1986,4.181524866351055
+Chicago,Indian,675,Moderate,1993,4.637749916340029
+Miami,Japanese,887,Expensive,1997,4.2627130707530165
+Miami,Indian,466,Very Expensive,2020,4.554893939441947
+New York,Indian,89,Very Expensive,2020,4.546355651936523
+Miami,Italian,738,Moderate,1985,4.033672450876493
+Boston,Mexican,339,Cheap,1990,3.054449665479037
+San Francisco,Chinese,630,Expensive,1999,4.438071480970974
+Chicago,Indian,55,Expensive,2020,4.127854812953545
+San Francisco,Chinese,127,Expensive,1994,4.206037426686879
+San Francisco,Indian,194,Very Expensive,1988,4.455393976556866
+Boston,Italian,699,Cheap,1989,4.3063242505179
+New York,Chinese,735,Expensive,2004,4.154207388742156
+San Francisco,Chinese,347,Expensive,2022,4.537725261186621
+New York,Japanese,843,Cheap,2005,4.335821619042193
+New York,Indian,92,Cheap,1992,4.177686197930099
+New York,Mexican,372,Expensive,2013,4.694887272085724
+Boston,Japanese,157,Very Expensive,2010,4.196413976039921
+Chicago,Chinese,230,Very Expensive,2004,4.217252785746099
+New York,Chinese,825,Moderate,2002,4.027322344209494
+New York,Japanese,196,Expensive,1998,4.045234797636158
+New York,Chinese,846,Expensive,2007,4.563808605073979
+Boston,Indian,629,Cheap,2001,3.018186887945954
+Boston,Italian,51,Moderate,1993,4.058676960592232
+Miami,Chinese,945,Very Expensive,1987,4.131183923664126
+San Francisco,Italian,946,Moderate,2003,4.099701678441926
+Miami,Chinese,284,Very Expensive,1994,4.398717603368761
+New York,Mexican,427,Expensive,1997,4.447887874032458
+Miami,Italian,663,Cheap,1990,4.691519709690527
+San Francisco,Italian,437,Cheap,2023,4.613274544621732
+Chicago,Mexican,774,Cheap,1996,4.64510885981976
+Boston,Japanese,298,Expensive,2007,4.688700853401335
+San Francisco,Indian,437,Expensive,2011,4.2100641779845445
+San Francisco,Indian,753,Cheap,2012,4.254468163219633
+Chicago,Chinese,300,Expensive,1996,4.13984329586415
+New York,Indian,84,Cheap,1998,4.1020034768066145
+Boston,Japanese,856,Moderate,1991,4.348622988445176
+Boston,Mexican,545,Cheap,2023,4.212227402262118
+Miami,Japanese,835,Moderate,2007,4.597592838708288
+New York,Japanese,330,Expensive,2006,4.36656955032644
+Miami,Indian,701,Cheap,2006,4.256286151276975
+San Francisco,Chinese,854,Cheap,1986,3.3723016306997895
+New York,Italian,853,Very Expensive,1996,4.171830551118751
+New York,Italian,945,Expensive,1986,4.633592404269691
+New York,Indian,698,Cheap,2011,4.463369832679335
+Boston,Mexican,74,Very Expensive,1996,3.8163126094005597
+Chicago,Chinese,438,Cheap,2004,4.621410653260025
+San Francisco,Chinese,552,Very Expensive,1987,4.667736820196882
+Boston,Indian,31,Expensive,2001,4.659720994088926
+Miami,Indian,691,Moderate,1990,4.254186030026159
+Chicago,Chinese,690,Cheap,2003,4.45866596029505
+San Francisco,Chinese,226,Very Expensive,2009,4.196788917758559
+Miami,Mexican,44,Expensive,1997,3.9177026489933695
+Boston,Mexican,785,Very Expensive,2015,4.61405539421538
+Boston,Mexican,307,Moderate,1995,4.339282332280286
+San Francisco,Mexican,832,Cheap,1996,4.006798474623309
+Chicago,Chinese,337,Moderate,2004,4.43664807864603
+Boston,Mexican,733,Moderate,1991,4.558871450499378
+Boston,Chinese,581,Expensive,2014,4.180484387755209
+Boston,Italian,63,Very Expensive,2020,4.675301112366975
+San Francisco,Italian,994,Cheap,1984,4.308244314076338
+Miami,Japanese,716,Cheap,1988,4.209771540367136
+New York,Indian,897,Moderate,1986,4.647272281254905
+New York,Chinese,546,Cheap,2016,4.580923837218749
+Boston,Italian,839,Expensive,2006,4.389194645880086
+Miami,Chinese,595,Moderate,2017,4.061297350036601
+San Francisco,Indian,544,Expensive,2018,4.554775640364997
+New York,Italian,51,Cheap,2020,4.137039079985703
+Chicago,Italian,481,Moderate,2009,4.1307670473938884
+Miami,Mexican,581,Cheap,2021,4.013650694658313
+New York,Indian,796,Moderate,2015,4.036083787772239
+Chicago,Japanese,757,Expensive,2011,4.441557177810033
+Boston,Chinese,607,Very Expensive,1989,4.086018860090505
+Boston,Mexican,274,Cheap,2020,4.272895462315026
+Miami,Indian,533,Very Expensive,2017,4.409981421975069
+San Francisco,Mexican,784,Very Expensive,2009,4.644057077926185
+Miami,Chinese,545,Expensive,1987,4.6311256338347935
+San Francisco,Mexican,386,Moderate,2023,4.512011899075042
+Chicago,Chinese,417,Cheap,1997,4.069380266127856
+Boston,Chinese,327,Moderate,2003,4.340315305956074
+New York,Mexican,150,Cheap,1985,4.595950769824089
+New York,Indian,889,Expensive,1994,4.600602339457779
+New York,Italian,344,Moderate,2008,4.2372439588474275
+Chicago,Mexican,867,Very Expensive,1995,4.622161887381119
+San Francisco,Japanese,585,Very Expensive,1986,4.5321365543765815
+San Francisco,Italian,686,Cheap,2018,4.6197668518053705
+Chicago,Chinese,919,Cheap,1984,4.220342796173181
+Chicago,Chinese,375,Cheap,2015,4.158288481335435
+New York,Chinese,259,Very Expensive,1997,4.027317875294345
+New York,Japanese,461,Expensive,1994,4.1998096250546375
+Chicago,Mexican,849,Moderate,2015,4.60684380090551
+San Francisco,Mexican,524,Moderate,1990,4.516294473577337
+Boston,Indian,567,Cheap,2004,4.5513402017262194
+San Francisco,Japanese,817,Moderate,1988,4.5263455330322895
+San Francisco,Italian,598,Expensive,2021,4.477304984974951
+New York,Italian,524,Expensive,1984,4.2983431365124485
+New York,Japanese,92,Moderate,1998,4.692673526939107
+Chicago,Mexican,323,Expensive,2000,4.194388317918058
+Miami,Japanese,27,Moderate,2021,4.084352535169253
+Boston,Italian,545,Expensive,2003,4.130733623215505
+Boston,Chinese,422,Moderate,1988,3.883331182192792
+Chicago,Japanese,955,Moderate,2019,4.481324830717504
+Boston,Japanese,977,Moderate,1990,4.530053432689903
+Chicago,Japanese,586,Expensive,1984,4.359892960136871
+Boston,Mexican,55,Very Expensive,1986,4.624082242782438
+Chicago,Indian,651,Expensive,2012,4.3227475179636645
+Chicago,Indian,912,Very Expensive,2014,4.2700185250972815
+Chicago,Mexican,919,Very Expensive,2018,4.6601780503012
+San Francisco,Chinese,685,Very Expensive,2002,4.678240426941796
+Chicago,Italian,814,Cheap,2021,4.423532371795261
+New York,Japanese,881,Cheap,2000,4.617006233834704
+Miami,Chinese,544,Moderate,1987,4.696542818842743
+Chicago,Indian,29,Very Expensive,1986,3.218541079702098
+Miami,Japanese,173,Moderate,2002,4.273527831274957
+Boston,Mexican,642,Very Expensive,1984,3.9913620877360256
+New York,Chinese,628,Moderate,2006,4.262082730041587
+San Francisco,Italian,499,Very Expensive,1997,4.567563138601843
+New York,Japanese,145,Expensive,1994,4.015005744949275
+Chicago,Japanese,830,Very Expensive,1998,4.267703969425262
+Chicago,Japanese,812,Expensive,2022,4.34665329250524
+San Francisco,Italian,166,Moderate,2014,4.178730426925182
+Chicago,Italian,119,Very Expensive,1989,4.43275626494106
+Boston,Japanese,591,Cheap,2006,4.356840468471911
+San Francisco,Chinese,547,Very Expensive,2011,4.2326830315861885
+Miami,Italian,707,Cheap,1992,4.180825183691432
+New York,Mexican,103,Expensive,1997,4.387786700119351
+Chicago,Japanese,285,Cheap,2013,3.3072977586539984
+Boston,Chinese,974,Very Expensive,2005,4.208591385094804
+New York,Indian,220,Very Expensive,2014,4.29387142935216
+New York,Mexican,253,Expensive,1999,4.412399141983468
+New York,Mexican,749,Cheap,2011,4.125339518928297
+Boston,Mexican,199,Moderate,2017,4.4615855077760225
+Miami,Mexican,306,Cheap,2011,4.308789085233131
+Miami,Italian,723,Cheap,2004,4.376884728400852
+New York,Japanese,666,Expensive,2002,4.197154202352316
+Chicago,Italian,921,Very Expensive,2020,4.386105619312132
+Boston,Chinese,649,Expensive,2020,4.413223521697794
+Boston,Italian,397,Moderate,1995,4.3743540142369515
+San Francisco,Japanese,800,Cheap,2008,4.562068589720636
+Boston,Japanese,517,Cheap,2003,4.651543370678254
+San Francisco,Italian,89,Moderate,1990,4.086055863252238
+Chicago,Indian,195,Expensive,1997,4.638015008308571
+Chicago,Japanese,558,Cheap,2010,4.647617555528675
+Miami,Japanese,929,Expensive,1986,4.0614576729510485
+Miami,Japanese,10,Very Expensive,2007,4.105942863526649
+Chicago,Japanese,116,Very Expensive,2023,4.3008237167005445
+New York,Mexican,458,Moderate,1998,4.651783544297866
+San Francisco,Japanese,935,Moderate,2004,4.1805216425511205
+Miami,Indian,369,Moderate,1984,4.12077200120424
+New York,Indian,948,Very Expensive,2013,4.621470119061817
+Miami,Italian,565,Very Expensive,2002,4.320303850512824
+Boston,Chinese,662,Very Expensive,2009,4.176635675770815
+Chicago,Japanese,205,Very Expensive,2013,4.5992793449053595
+New York,Indian,986,Expensive,1985,4.530421771890514
+Boston,Italian,715,Expensive,1985,4.483789114083029
+Miami,Italian,144,Very Expensive,2000,4.220290784710525
+Boston,Mexican,490,Expensive,2007,4.450448677586519
+Boston,Chinese,446,Expensive,1999,4.128876880765558
+Miami,Italian,776,Very Expensive,2022,4.519281730292784
+Boston,Japanese,730,Very Expensive,2016,4.350210447523855
+Boston,Chinese,48,Expensive,1993,4.5513587644258715
+Miami,Chinese,37,Very Expensive,1998,3.546599634821566
+New York,Indian,929,Moderate,1996,4.694823476840626
+New York,Italian,457,Very Expensive,1993,4.275730190140823
+San Francisco,Italian,950,Cheap,2020,4.596889541602539
+Chicago,Japanese,881,Expensive,2020,4.140959976809177
+Boston,Mexican,553,Cheap,1990,4.232085958330938
+San Francisco,Japanese,35,Expensive,2019,3.6908838080129875
+San Francisco,Japanese,926,Expensive,2017,4.390014820142475
+Boston,Indian,966,Cheap,2020,4.24663552719295
+Miami,Italian,331,Moderate,2008,4.549125128724006
+Chicago,Japanese,155,Cheap,2000,3.4392920189147262
+Miami,Italian,641,Cheap,2007,4.305297685108716
+Boston,Mexican,593,Very Expensive,1997,4.566911195022367
+Miami,Indian,51,Cheap,1999,4.491221758393363
+Chicago,Mexican,897,Cheap,2019,3.827537473501941
+San Francisco,Japanese,748,Moderate,2022,4.255343085388055
+Boston,Chinese,183,Very Expensive,1999,4.550077632694813
+Miami,Chinese,50,Moderate,1986,4.616313629960087
+Chicago,Chinese,990,Very Expensive,2013,4.549974814555093
+Miami,Chinese,608,Expensive,2000,3.8348204132663306
+Boston,Chinese,960,Very Expensive,1987,4.131916005167663
+New York,Japanese,84,Expensive,1987,4.031666033556224
+Boston,Chinese,62,Expensive,2012,4.4717233675382495
+New York,Italian,136,Expensive,2011,4.395610149622311
+Chicago,Japanese,982,Very Expensive,1997,4.544718370246201
+Boston,Italian,747,Expensive,1990,4.580728535464847
+San Francisco,Chinese,187,Expensive,2023,4.26279251493839
+Boston,Mexican,349,Expensive,1997,4.5236440043686095
+San Francisco,Italian,814,Very Expensive,2011,4.063991705863688
+New York,Italian,190,Cheap,1995,4.555139881290673
+New York,Indian,954,Very Expensive,2016,4.239606615252025
+Boston,Mexican,590,Expensive,1993,4.219107888940246
+Miami,Indian,12,Moderate,2004,4.158499227932596
+Boston,Japanese,830,Expensive,2008,3.996787930431841
+San Francisco,Mexican,175,Moderate,2011,4.196886611185515
+New York,Indian,319,Cheap,1993,4.627009621802342
+Chicago,Indian,191,Very Expensive,2004,4.5987510387290484
+Boston,Chinese,951,Moderate,2014,4.189018453542123
+New York,Chinese,183,Cheap,2020,4.21201087169837
+San Francisco,Indian,210,Cheap,2013,4.577493741373043
+Boston,Indian,965,Moderate,2012,4.240640990711063
+Boston,Mexican,764,Moderate,2014,4.192870989499974
+Chicago,Mexican,543,Expensive,2007,4.428510171183038
+Boston,Chinese,532,Moderate,1986,4.167250973569334
+San Francisco,Mexican,356,Expensive,1993,4.490004611902727
+Boston,Indian,894,Very Expensive,1987,4.111170208770573
+Miami,Indian,412,Moderate,1986,4.547156852818633
+Miami,Mexican,745,Cheap,2019,4.3539141934454335
+Boston,Chinese,67,Expensive,2009,4.144841618757297
+Boston,Japanese,538,Very Expensive,2001,4.372891715786557
+Boston,Italian,422,Expensive,2014,4.4519607404525425
+Chicago,Mexican,148,Expensive,2005,4.228302969422552
+Chicago,Chinese,82,Very Expensive,2019,4.330312038769773
+San Francisco,Indian,843,Expensive,2019,4.372586231504054
+Boston,Japanese,619,Cheap,1999,4.604517991879418
+New York,Chinese,984,Expensive,2019,4.567571383130142
+Miami,Italian,332,Very Expensive,1994,4.532443243761445
+Boston,Mexican,121,Cheap,1987,4.472711463411769
+New York,Italian,880,Cheap,2020,4.332561172778548
+San Francisco,Mexican,592,Very Expensive,1993,4.420193504352495
+Miami,Japanese,814,Moderate,2001,4.141617489961528
+San Francisco,Chinese,234,Expensive,1984,4.177156965556235
+Chicago,Indian,578,Moderate,2004,4.679588854874441
+Chicago,Italian,482,Very Expensive,2018,4.386215252124484
+Chicago,Japanese,474,Cheap,2021,4.6301990657088
+Chicago,Indian,241,Expensive,1990,4.192287538745555
+Chicago,Chinese,198,Very Expensive,1991,3.8977213587566357
+Chicago,Indian,545,Moderate,2017,4.659767741771924
+Miami,Chinese,110,Expensive,2022,4.148471940348557
+New York,Indian,855,Expensive,2004,4.060070126603285
+Miami,Indian,419,Cheap,1991,4.680498037533869
+New York,Japanese,956,Expensive,1990,4.552886322619867
+Miami,Chinese,400,Very Expensive,2003,4.363299881940933
+Miami,Chinese,186,Cheap,2021,3.8319533350203336
+Boston,Mexican,391,Moderate,2017,4.448180661146768
+San Francisco,Japanese,648,Very Expensive,1995,4.4235870096829695
+Chicago,Indian,112,Expensive,2008,3.9154279871418023
+Chicago,Mexican,459,Very Expensive,2021,4.6338840225876305
+San Francisco,Japanese,939,Moderate,2002,4.070107664314541
+San Francisco,Japanese,671,Expensive,1984,4.267288596548044
+New York,Japanese,107,Expensive,1996,4.186771781682348
+New York,Japanese,196,Moderate,1990,4.150768801349722
+Miami,Chinese,668,Expensive,2020,4.586155774464535
+Miami,Italian,466,Cheap,2014,4.223085611803388
+Miami,Chinese,254,Expensive,2000,4.477426799320273
+San Francisco,Mexican,556,Expensive,2011,4.459284072088333
+San Francisco,Japanese,787,Expensive,2006,4.08509982300541
+New York,Italian,123,Expensive,2015,3.780892048129067
+Boston,Indian,350,Cheap,2017,4.503042068628012
+New York,Chinese,947,Expensive,2005,4.212107152966106
+New York,Italian,758,Cheap,2005,4.100708532137209
+Boston,Mexican,542,Very Expensive,2019,4.34377071572057
+Chicago,Indian,636,Very Expensive,2021,4.0199964292645
+Miami,Chinese,720,Cheap,2019,4.350486397950783
+Chicago,Mexican,934,Moderate,2000,4.172175060928364
+Chicago,Chinese,747,Moderate,1991,3.779013009684606
+Boston,Japanese,609,Moderate,2015,4.628031298937867
+San Francisco,Japanese,367,Very Expensive,2018,4.055529404105995
+Boston,Chinese,141,Cheap,2010,4.591861316612286
+San Francisco,Chinese,793,Moderate,2015,4.591261660669603
+Chicago,Chinese,532,Very Expensive,2017,4.2822797246437005
+Miami,Japanese,924,Cheap,2007,4.229051631461544
+Boston,Mexican,178,Very Expensive,1986,4.161767956190591
+Boston,Chinese,595,Very Expensive,2005,4.08402826915224
+Boston,Indian,808,Very Expensive,2001,4.0753319086246975
+Boston,Japanese,920,Very Expensive,2007,4.291427100166488
+San Francisco,Mexican,858,Expensive,2005,4.299328335256435
+Miami,Italian,116,Very Expensive,1987,4.696021841457253
+Boston,Indian,940,Very Expensive,2005,4.36443318019059
+San Francisco,Indian,51,Cheap,2001,4.172827384786718
+San Francisco,Italian,403,Expensive,1988,4.031884859204596
+Chicago,Indian,576,Cheap,2012,4.258921190709323
+Boston,Japanese,132,Expensive,1994,4.3264526218891
+Miami,Mexican,918,Moderate,1984,4.452786323831418
+New York,Indian,439,Moderate,1997,4.677653696871847
+New York,Italian,855,Moderate,2005,4.5942378767364165
+Boston,Mexican,241,Very Expensive,1990,4.220789138419998
+Chicago,Indian,157,Expensive,1988,4.353327783607747
+Chicago,Japanese,653,Cheap,1986,4.287050418943623
+New York,Japanese,854,Moderate,2023,4.530495366380235
+San Francisco,Japanese,44,Moderate,1986,4.33131199377719
+Boston,Japanese,204,Cheap,2011,4.078327636560933
+San Francisco,Japanese,46,Cheap,2007,3.6033802546245948
+San Francisco,Indian,53,Expensive,1991,4.125675791763684
+Chicago,Mexican,289,Very Expensive,2017,4.055745116514974
+Chicago,Chinese,887,Very Expensive,2014,4.1027869227170335
+Miami,Indian,685,Very Expensive,1985,4.0277702823861254
+Chicago,Chinese,52,Moderate,2020,4.108876641355186
+New York,Chinese,47,Very Expensive,1995,4.522867915092342
+San Francisco,Italian,205,Expensive,2014,4.5329905574934735
+New York,Indian,39,Moderate,1998,4.389422149435581
+Boston,Chinese,812,Cheap,2015,4.623924035084235
+San Francisco,Italian,957,Expensive,2006,4.309035905727882
+San Francisco,Indian,862,Cheap,2009,4.693901681214907
+San Francisco,Indian,746,Cheap,1985,3.787014941345471
+Chicago,Japanese,92,Expensive,2012,4.4872008901570295
+San Francisco,Italian,601,Cheap,2015,4.172430250124367
+Boston,Indian,528,Expensive,1986,4.274105229208413
+Miami,Indian,516,Expensive,1985,4.605741087447802
+Boston,Indian,867,Cheap,2013,4.316737860048147
+Miami,Japanese,627,Cheap,1991,4.505169874246685
+San Francisco,Japanese,747,Very Expensive,1994,4.612964897969284
+Chicago,Italian,557,Expensive,2004,4.383585811865038
+Chicago,Japanese,629,Moderate,1989,4.264851524952808
+New York,Chinese,163,Expensive,2008,4.474552895124418
+Chicago,Italian,109,Very Expensive,1997,4.489711686363634
+San Francisco,Mexican,648,Cheap,1987,4.3991240302638275
+Chicago,Chinese,949,Expensive,2003,3.844812490469044
+San Francisco,Mexican,164,Expensive,1996,4.065600499654015
+Chicago,Japanese,467,Moderate,1984,4.076663667465156
+Boston,Indian,887,Moderate,1997,4.598276930792649
+San Francisco,Chinese,725,Moderate,1986,4.081131727243956
+San Francisco,Italian,806,Cheap,1985,4.227356375670466
+Miami,Mexican,959,Expensive,1998,4.614374250324431
+Boston,Japanese,180,Very Expensive,1993,4.358898858846211
+New York,Italian,115,Very Expensive,2000,4.5188365038430796
+San Francisco,Mexican,730,Cheap,1991,4.506672081779164
+Miami,Indian,543,Cheap,2020,4.340004266092548
+New York,Chinese,167,Moderate,2004,4.669234546854302
+Chicago,Indian,932,Very Expensive,1990,4.300713276579033
+Boston,Japanese,236,Very Expensive,1986,4.275057276798662
+Boston,Mexican,781,Cheap,1998,4.632738910456203
+San Francisco,Mexican,730,Moderate,2013,4.196723286606976
+Chicago,Indian,712,Moderate,2013,4.697588957219317
+Boston,Indian,316,Very Expensive,2014,4.623923523340293
+Boston,Chinese,864,Cheap,2023,4.192155726511067
+Boston,Indian,646,Moderate,2019,4.100330005946176
+Boston,Chinese,654,Very Expensive,2002,4.438107397134008
+Boston,Chinese,395,Very Expensive,2017,4.386411414897765
+Chicago,Indian,679,Cheap,1985,4.374419792039262
+San Francisco,Indian,163,Very Expensive,2010,4.197375575808329
+New York,Mexican,565,Very Expensive,1996,4.374149989468722
+Boston,Italian,876,Very Expensive,2023,4.111931702587924
+Boston,Chinese,759,Cheap,1987,4.25210944504814
+San Francisco,Japanese,118,Cheap,1984,4.242638085040193
+San Francisco,Italian,209,Moderate,2005,4.438701917843995
+Chicago,Chinese,874,Very Expensive,2011,4.475118312122572
+Chicago,Italian,752,Expensive,2017,4.390620216484586
+Boston,Mexican,560,Moderate,2010,4.264340442311196
+New York,Indian,429,Cheap,1985,4.629141549608139
+Miami,Chinese,81,Moderate,1998,4.0263509025112505
+Boston,Chinese,620,Moderate,1987,4.6162449930682845
+Boston,Mexican,757,Very Expensive,2019,4.625743836220017
+San Francisco,Chinese,418,Very Expensive,2020,4.427505923797248
+San Francisco,Japanese,950,Very Expensive,2009,4.575169501466346
+Boston,Mexican,111,Cheap,1995,4.412225988719194
+Boston,Italian,358,Moderate,1988,4.645968962561453
+Chicago,Indian,632,Cheap,2004,4.412060935010377
+San Francisco,Mexican,601,Moderate,1985,3.885716278409628
+San Francisco,Italian,217,Cheap,2010,4.3201229356727495
+San Francisco,Mexican,547,Moderate,2010,4.462114706071508
+Chicago,Chinese,693,Very Expensive,2006,4.6255942411767945
+San Francisco,Mexican,866,Expensive,2015,4.2521130373355245
+New York,Chinese,90,Very Expensive,2011,4.12374044249928
+New York,Chinese,102,Expensive,2006,4.380995182661642
+Boston,Italian,967,Cheap,2000,4.417602578447315
+Miami,Mexican,485,Cheap,2010,4.197751745782367
+Boston,Indian,279,Expensive,1994,4.236789842753577
+New York,Chinese,499,Expensive,2023,4.6153423130065745
